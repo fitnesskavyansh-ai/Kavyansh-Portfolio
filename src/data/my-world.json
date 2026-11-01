@@ -1,0 +1,36 @@
+[
+  {
+    "id": "build-arena-noida",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "date": "30 October 2026",
+    "caption": "BUILD ARENA — MICROSOFT OFFICE, NOIDA",
+    "description": "A technology and innovation experience at Microsoft Office, Noida, as part of my Build Arena journey.",
+    "category": "Hackathon / Technology Event",
+    "coordinates": [28.5355, 77.3910],
+    "folder": "india/uttar-pradesh/noida/build-arena",
+    "featured": true,
+    "images": [
+      "/assets/hackathons/delhi/IMG_2126.jpeg",
+      "/assets/hackathons/delhi/IMG_2129.jpeg",
+      "/assets/hackathons/delhi/IMG_2155.jpeg",
+      "/assets/hackathons/delhi/IMG_2157.jpeg",
+      "/assets/hackathons/delhi/IMG_2181.jpeg"
+    ]
+  },
+  {
+    "id": "mathura-visit",
+    "city": "Mathura",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "date": "2024-01-01",
+    "caption": "The spiritual heart of India.",
+    "description": "Exploration of the ancient temples and the vibrant culture of my hometown area.",
+    "category": "Spirituality & Culture",
+    "coordinates": [27.4924, 77.6737],
+    "folder": "india/uttar-pradesh/mathura",
+    "featured": true,
+    "images": []
+  }
+]

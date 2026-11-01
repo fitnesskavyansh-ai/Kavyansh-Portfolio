@@ -1,0 +1,16 @@
+[
+  {
+    "id": "hackathon-win-1",
+    "title": "Won Build Arena 2024",
+    "date": "2024",
+    "type": "hackathon",
+    "description": "Secured 1st rank for the project StudyMate."
+  },
+  {
+    "id": "cert-1",
+    "title": "Azure Certified",
+    "date": "2023",
+    "type": "certification",
+    "description": "Cleared AZ-900 with high score."
+  }
+]

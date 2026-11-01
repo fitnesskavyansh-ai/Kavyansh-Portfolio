@@ -1,0 +1,78 @@
+[
+  {
+    "id": "studymate",
+    "title": "StudyMate",
+    "description": "An AI-powered study companion for students.",
+    "problem": "Students struggle with organizing study materials and getting instant help.",
+    "solution": "Built a platform with AI tutoring, material organization, and collaboration features.",
+    "features": ["AI Tutoring", "Smart Notes", "Group Study Rooms"],
+    "tech": ["Next.js", "Gemini AI", "Firebase"],
+    "links": {
+      "github": "https://github.com/kavyansh/studymate",
+      "live": "https://studymate-live.com"
+    },
+    "status": "Production",
+    "image": "/assets/projects/studymate/cover.jpg",
+    "featured": true
+  },
+  {
+    "id": "campuspulse",
+    "title": "CampusPulse",
+    "description": "Real-time campus event and activity tracker.",
+    "problem": "Campus events are often missed due to poor communication.",
+    "solution": "A centralized hub for all campus activities with real-time notifications.",
+    "features": ["Event Calendar", "Ticketing", "Community Feed"],
+    "tech": ["React", "Node.js", "PostgreSQL"],
+    "links": {
+      "github": "https://github.com/kavyansh/campuspulse",
+      "live": "https://campuspulse.com"
+    },
+    "status": "Live",
+    "image": "/assets/projects/campuspulse/cover.jpg"
+  },
+  {
+    "id": "medicheck-ai",
+    "title": "MEDICHECK AI",
+    "description": "Advanced AI diagnostics and health monitoring.",
+    "problem": "Limited access to quick health preliminary checks.",
+    "solution": "AI-driven symptom checker and health report generator.",
+    "features": ["Symptom Analysis", "Health Tips", "Report Storage"],
+    "tech": ["Python", "TensorFlow", "React"],
+    "links": {
+      "github": "https://github.com/kavyansh/medicheck-ai",
+      "live": "https://medicheck-ai.com"
+    },
+    "status": "Beta",
+    "image": "/assets/projects/medicheck-ai/cover.jpg"
+  },
+  {
+    "id": "cliniq-ai",
+    "title": "CLINIQ AI",
+    "description": "Smart clinic management system.",
+    "problem": "Inefficient patient queuing and data management in clinics.",
+    "solution": "Automated appointment booking and patient record management.",
+    "features": ["Appointment Booking", "Digital Records", "Billing"],
+    "tech": ["Next.js", "Supabase", "Tailwind"],
+    "links": {
+      "github": "https://github.com/kavyansh/cliniq-ai",
+      "live": "https://cliniq-ai.com"
+    },
+    "status": "Development",
+    "image": "/assets/projects/cliniq-ai/cover.jpg"
+  },
+  {
+    "id": "gla-lost-found",
+    "title": "GLA Lost & Found",
+    "description": "Dedicated portal for finding lost items on campus.",
+    "problem": "No efficient way to report and find lost items in college.",
+    "solution": "A community-driven lost and found platform.",
+    "features": ["Item Reporting", "Search Filters", "Claim Verification"],
+    "tech": ["React", "Firebase"],
+    "links": {
+      "github": "https://github.com/kavyansh/gla-lost-found",
+      "live": "https://gla-lost-found.com"
+    },
+    "status": "Active",
+    "image": "/assets/projects/gla-lost-found/cover.jpg"
+  }
+]

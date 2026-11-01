@@ -1,0 +1,24 @@
+[
+  {
+    "id": "build-arena",
+    "title": "Build Arena",
+    "location": "GLA University",
+    "date": "2024",
+    "description": "An intense 24-hour hackathon focused on solving real-world campus problems.",
+    "team": ["Kavyansh Saxena"],
+    "achievements": "Winner - Best Innovative Solution",
+    "category": "hackathons",
+    "folder": "build-arena"
+  },
+  {
+    "id": "hackfront",
+    "title": "HackFront",
+    "location": "New Delhi",
+    "date": "2023",
+    "description": "National level frontend development hackathon.",
+    "team": ["Kavyansh Saxena"],
+    "achievements": "Top 10 Finalist",
+    "category": "hackathons",
+    "folder": "hackfront"
+  }
+]

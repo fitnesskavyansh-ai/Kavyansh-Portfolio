@@ -1,11 +1,44 @@
-<div align="center">
+# KAVYANSH SAXENA — THE SERIES
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A premium, cinematic personal portfolio inspired by high-end streaming platforms.
 
-  <h1>Built with AI Studio</h2>
+## Tech Stack
+- **React 19**
+- **Vite**
+- **TypeScript**
+- **Tailwind CSS 4**
+- **GSAP** (Cinematic Animations)
+- **Framer Motion** (Transitions & UI Motion)
+- **Lenis** (Smooth Scrolling)
+- **Lucide React** (Icons)
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Getting Started
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+1.  **Install Dependencies**:
+    ```bash
+    npm install
+    ```
 
-</div>
+2.  **Run Development Server**:
+    ```bash
+    npm run dev
+    ```
+
+3.  **Sync Assets**:
+    Whenever you add new images or PDFs to the `public/assets` folder, run:
+    ```bash
+    npm run assets:sync
+    ```
+
+4.  **Production Build**:
+    ```bash
+    npm run build
+    ```
+
+## Customization
+Refer to [ASSET_GUIDE.md](./ASSET_GUIDE.md) for detailed instructions on adding your own photos, certificates, and project data.
+
+## Author
+**Kavyansh Saxena**
+AI/ML Engineer | Full-Stack Developer
+B.Tech CSE (AI & ML), GLA University

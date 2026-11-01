@@ -1,0 +1,26 @@
+[
+  {
+    "id": "build-arena",
+    "title": "BUILD ARENA // MICROSOFT NOIDA",
+    "date": "2026",
+    "story": "Immersive hackathon experience at Microsoft's Noida headquarters. Exploring the cutting edge of AI and cloud innovation within the Build Arena ecosystem.",
+    "location": "Microsoft Office, Noida",
+    "tags": ["Hackathon", "Microsoft", "Innovation", "BuildArena"],
+    "images": [
+      "/assets/hackathons/delhi/IMG_2126.jpeg",
+      "/assets/hackathons/delhi/IMG_2129.jpeg",
+      "/assets/hackathons/delhi/IMG_2155.jpeg",
+      "/assets/hackathons/delhi/IMG_2157.jpeg",
+      "/assets/hackathons/delhi/IMG_2181.jpeg"
+    ]
+  },
+  {
+    "id": "entry-1",
+    "title": "The Genesis of the Legend",
+    "date": "2024-10-31",
+    "story": "Today marks the launch of the most cinematic version of my digital archive. The journey from code to cinema has been intense.",
+    "location": "Mainframe",
+    "tags": ["DevLog", "Milestone", "Vision"],
+    "images": []
+  }
+]

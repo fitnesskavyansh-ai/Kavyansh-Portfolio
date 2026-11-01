@@ -1,0 +1,8 @@
+{
+  "Programming": ["Python", "Java", "C", "C++", "JavaScript", "SQL"],
+  "Frontend": ["HTML", "CSS", "React", "Next.js", "Tailwind CSS"],
+  "Backend": ["Node.js", "Flask", "Express", "REST APIs"],
+  "AI & ML": ["Machine Learning", "Deep Learning", "Data Analysis", "Gemini AI"],
+  "Database": ["PostgreSQL", "MySQL", "Firebase", "Supabase"],
+  "Cloud & Tools": ["Microsoft Azure", "Git", "GitHub", "Vite", "Docker"]
+}
